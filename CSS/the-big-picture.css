@@ -1,0 +1,21 @@
+body {
+	margin-top: 50px;
+	margin-bottom: 50px;
+	background: none;
+	font-family: 'Droid Serif', serif;
+	color: #FFFFFF;
+}
+
+a {
+	font-style: italic;
+	color: #C0C0C0;
+
+}
+
+.full {
+  background: url('../images/ballerina.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
